@@ -1,2 +1,2 @@
 # config-server
-contains the configuration files of all the services
+reads the configuration files from git repo https://github.com/microservicez/configs
